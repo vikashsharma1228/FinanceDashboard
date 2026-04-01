@@ -78,7 +78,7 @@ export default function App() {
               <span className="text-2xl">{darkMode ? '☀️' : '🌙'}</span>
             </button>
             <div className="min-w-0">
-              <h1 className="text-xl md:text-2xl font-black text-slate-900 dark:text-white truncate">Finance Dash</h1>
+              <h1 className="text-xl md:text-2xl font-black text-slate-900 dark:text-white truncate">Finance Dashboard</h1>
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div>
                 <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{role} MODE</span>

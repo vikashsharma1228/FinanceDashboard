@@ -1,7 +1,4 @@
-# 💰 Finance Dashboard
-
-## Live Link
-<p align="center">
+# 💰 Finance Dashboard <p align="center">
   <a href="https://financedashboard-kappa.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
   </a>
@@ -117,12 +114,6 @@ npm install
 ```
 npm run dev
 ```
-
----
-
-## 📷 Screenshots
-
-![Dashboard](src\assets\image.png)
 
 ---
 

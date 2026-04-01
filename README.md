@@ -1,5 +1,13 @@
 # 💰 Finance Dashboard
 
+## Live Link
+<p align="center">
+  <a href="https://financedashboard-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
+  </a>
+</p>
+
+
 A high-performance, responsive, and feature-rich **Personal Finance Management Dashboard** built with **React.js** and **Tailwind CSS v4**.
 
 This project is designed with an **R&D mindset**, focusing on:
@@ -114,7 +122,7 @@ npm run dev
 
 ## 📷 Screenshots
 
-![Dashboard](src\assests\image.png)
+![Dashboard](src\assets\image.png)
 
 ---
 

@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@variant dark (&:where(.dark, .dark *));
+
+body {
+  margin: 0;
+  /* Light mode mein background thoda off-white rakha hai taaki white cards saaf dikhein */
+  @apply bg-slate-50 dark:bg-slate-950 transition-colors duration-300;
+}
+
+/* Scrollbar stability */
+html {
+  overflow-y: scroll;
+}
+
+/* Har input aur select par default border visibility */
+input, select {
+  @apply border-slate-300 dark:border-slate-700;
+}

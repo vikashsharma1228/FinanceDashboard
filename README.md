@@ -114,7 +114,7 @@ npm run dev
 
 ## 📷 Screenshots
 
-![Dashboard](image.png)
+![Dashboard](src\assests\image.png)
 
 ---
 

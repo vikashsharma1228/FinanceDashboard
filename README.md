@@ -1,5 +1,5 @@
 # 💰 Finance Dashboard <p align="center">
-  <a href="https://financedashboard-kappa.vercel.app/">
+  <a href="https://finance-dashboard-hazel-one.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
   </a>
 </p>

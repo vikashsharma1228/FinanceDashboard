@@ -1,8 +1,5 @@
 # 💰 Finance Dashboard <p align="center">
-  <a href="https://finance-dashboard-hazel-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
-  </a>
-</p>
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://finance-dashboard-hazel-one.vercel.app/)
 
 
 A high-performance, responsive, and feature-rich **Personal Finance Management Dashboard** built with **React.js** and **Tailwind CSS v4**.
